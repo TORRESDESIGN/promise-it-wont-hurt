@@ -1,0 +1,20 @@
+{
+  "name": "promise-it-wont-hurt",
+  "version": "1.0.0",
+  "description": "JS promises to handle async",
+  "main": "fullfillAPromise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TORRESDESIGN/promise-it-wont-hurt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TORRESDESIGN/promise-it-wont-hurt/issues"
+  },
+  "homepage": "https://github.com/TORRESDESIGN/promise-it-wont-hurt#readme"
+}
