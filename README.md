@@ -6,8 +6,8 @@
 2. Fulfill a promise
 3. To reject or not to reject 
 4. Always asynchronous
-5. Shortcuts  <--- (currently on)
-6. 
-7. 
+5. Shortcuts
+6. Promise after promise
+7. Values and promises <--- (currently on)
 8. 
 
