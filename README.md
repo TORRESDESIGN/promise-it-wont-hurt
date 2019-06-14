@@ -8,6 +8,7 @@
 4. Always asynchronous
 5. Shortcuts
 6. Promise after promise
-7. Values and promises <--- (currently on)
-8. 
-
+7. Values and promises
+8. Throw an error <--- (currently on)
+9. 
+10.
