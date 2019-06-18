@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TORRESDESIGN/promise-it-wont-hurt/issues"
   },
-  "homepage": "https://github.com/TORRESDESIGN/promise-it-wont-hurt#readme"
+  "homepage": "https://github.com/TORRESDESIGN/promise-it-wont-hurt#readme",
+  "dependencies": {
+    "q-io": "^1.13.6"
+  }
 }
