@@ -9,7 +9,7 @@
 5. Shortcuts
 6. Promise after promise
 7. Values and promises
-8. Throw an error <--- (currently on)
+8. Throw an error 
 9. Multiple promises
-10.
-11.
+10. Fetch JSON
+11. Do some work <--- (currently on)
