@@ -12,4 +12,4 @@
 8. Throw an error 
 9. Multiple promises
 10. Fetch JSON
-11. Do some work <--- (currently on)
+11. Do some work
